@@ -1,0 +1,15 @@
+C:\Users\rosiv\Desktop\.NET\Jogo_Rpg\bin\Debug\net6.0\.NET.exe
+C:\Users\rosiv\Desktop\.NET\Jogo_Rpg\bin\Debug\net6.0\.NET.deps.json
+C:\Users\rosiv\Desktop\.NET\Jogo_Rpg\bin\Debug\net6.0\.NET.runtimeconfig.json
+C:\Users\rosiv\Desktop\.NET\Jogo_Rpg\bin\Debug\net6.0\.NET.dll
+C:\Users\rosiv\Desktop\.NET\Jogo_Rpg\bin\Debug\net6.0\.NET.pdb
+C:\Users\rosiv\Desktop\.NET\Jogo_Rpg\obj\Debug\net6.0\.NET.csproj.AssemblyReference.cache
+C:\Users\rosiv\Desktop\.NET\Jogo_Rpg\obj\Debug\net6.0\.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosiv\Desktop\.NET\Jogo_Rpg\obj\Debug\net6.0\.NET.AssemblyInfoInputs.cache
+C:\Users\rosiv\Desktop\.NET\Jogo_Rpg\obj\Debug\net6.0\.NET.AssemblyInfo.cs
+C:\Users\rosiv\Desktop\.NET\Jogo_Rpg\obj\Debug\net6.0\.NET.csproj.CoreCompileInputs.cache
+C:\Users\rosiv\Desktop\.NET\Jogo_Rpg\obj\Debug\net6.0\.NET.dll
+C:\Users\rosiv\Desktop\.NET\Jogo_Rpg\obj\Debug\net6.0\refint\.NET.dll
+C:\Users\rosiv\Desktop\.NET\Jogo_Rpg\obj\Debug\net6.0\.NET.pdb
+C:\Users\rosiv\Desktop\.NET\Jogo_Rpg\obj\Debug\net6.0\.NET.genruntimeconfig.cache
+C:\Users\rosiv\Desktop\.NET\Jogo_Rpg\obj\Debug\net6.0\ref\.NET.dll
